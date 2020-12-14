@@ -1,9 +1,9 @@
-#Privacy Policy
+# Privacy Policy
 14 12 2020
 
 iTerminal follows the relevant legal requirements and takes all reasonable precautions to safeguard personal information.
 
-##INTRODUCTION
+## INTRODUCTION
 iTerminal is committed to protecting your privacy and security. This policy explains how and why we use your personal data, to ensure you remain informed and in control of your information.
 
 You can decide not to receive communications or change how we contact you at any time. If you wish to do so please contact us by emailing report.pplan@gmail.com.
@@ -18,7 +18,7 @@ Questions?
 
 Any questions you have in relation to this policy or how we use your personal data should be sent to report.pplan@gmail.com.
 
-##ABOUT US
+## ABOUT US
 Your personal data (i.e. any information which identifies you, or which can be identified as relating to you personally) will be not collected and used.
 
 This Privacy Policy was last updated on 14.12.2020
