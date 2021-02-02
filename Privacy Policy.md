@@ -6,7 +6,7 @@ iTerminal follows the relevant legal requirements and takes all reasonable preca
 ## INTRODUCTION
 iTerminal is committed to protecting your privacy and security. This policy explains how and why we use your personal data, to ensure you remain informed and in control of your information.
 
-You can decide not to receive communications or change how we contact you at any time. If you wish to do so please contact us by emailing report.pplan@gmail.com.
+You can decide not to receive communications or change how we contact you at any time. If you wish to do so please contact us by emailing support@pplan.top
 
 We will never sell your personal data, and will only ever share it with organisations we work with where necessary and if its privacy and security are guaranteed. Personal information submitted to iTerminal is only used to contact you regarding iTerminal activities. 
 
@@ -16,7 +16,7 @@ We will not distribute, sell, trade or rent your personal information to third p
 
 Questions?
 
-Any questions you have in relation to this policy or how we use your personal data should be sent to report.pplan@gmail.com.
+Any questions you have in relation to this policy or how we use your personal data should be sent to support@pplan.top.
 
 ## ABOUT US
 Your personal data (i.e. any information which identifies you, or which can be identified as relating to you personally) will be not collected and used.
