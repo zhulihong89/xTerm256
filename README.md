@@ -1,4 +1,4 @@
-# iTerminal
+# xTerm256
 
 
-Contact Us: report.pplan@gmail.com
+Contact Us: support@pplan.top
